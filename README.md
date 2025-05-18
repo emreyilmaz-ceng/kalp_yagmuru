@@ -39,13 +39,13 @@ Drop’ların spawn, güncelleme ve çarpışma kontrolü
 Çizim sırası: arka plan → uçak → drop nesneleri → karakter → HUD → flip
 
 **Ekran Görüntüleri 
-## Ekran Görüntüleri
 
-![Oyun Başlangıç Ekranı](Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/game1.jpg)
+![Oyun Başlangıç Ekranı](ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/game1.jpg)
 
-![Kalp Düşerken](Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/game2.jpg)
+![Kalp Düşerken](ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/game2.jpg)
 
-![Bomba Düşerken](Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/game3.jpg)
+![Bomba Düşerken](ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/game3.jpg)
 
-![Oyun Bitti Ekranı](Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/game4.jpg)
+![Oyun Bitti Ekranı](ekran%20g%C3%B6r%C3%BCnt%C3%BCleri/game4.jpg)
+
 
